@@ -6,7 +6,7 @@ Managing your digital life has never been easier, thanks to Comcast’s streamli
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://deskcomcast.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Comcast</a>
+       <a href="https://comcastxfn.protectbase.click/desk/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Comcast</a>
    </div>
 
 In today's connected world, having reliable and secure access to your account is a must. That's why knowing how to properly **Log Into Comcast Account** is crucial. From billing to email and streaming, everything runs through your Comcast/Xfinity account.
@@ -213,3 +213,4 @@ And for email access:
 `https://connect.xfinity.com <https://connect.xfinity.com>`_
 
 Make sure you bookmark these URLs and secure your account for a seamless digital life.
+
